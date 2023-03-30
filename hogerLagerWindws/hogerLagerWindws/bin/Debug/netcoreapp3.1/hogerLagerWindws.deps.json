@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "hogerLagerWindws/1.0.0": {
+        "runtime": {
+          "hogerLagerWindws.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hogerLagerWindws/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

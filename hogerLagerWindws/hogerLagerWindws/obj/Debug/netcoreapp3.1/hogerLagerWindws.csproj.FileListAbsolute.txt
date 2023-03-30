@@ -1,0 +1,13 @@
+D:\AThomasMore\Windws\hogerLagerWindws\hogerLagerWindws\bin\Debug\netcoreapp3.1\hogerLagerWindws.exe
+D:\AThomasMore\Windws\hogerLagerWindws\hogerLagerWindws\bin\Debug\netcoreapp3.1\hogerLagerWindws.deps.json
+D:\AThomasMore\Windws\hogerLagerWindws\hogerLagerWindws\bin\Debug\netcoreapp3.1\hogerLagerWindws.runtimeconfig.json
+D:\AThomasMore\Windws\hogerLagerWindws\hogerLagerWindws\bin\Debug\netcoreapp3.1\hogerLagerWindws.runtimeconfig.dev.json
+D:\AThomasMore\Windws\hogerLagerWindws\hogerLagerWindws\bin\Debug\netcoreapp3.1\hogerLagerWindws.dll
+D:\AThomasMore\Windws\hogerLagerWindws\hogerLagerWindws\bin\Debug\netcoreapp3.1\hogerLagerWindws.pdb
+D:\AThomasMore\Windws\hogerLagerWindws\hogerLagerWindws\obj\Debug\netcoreapp3.1\hogerLagerWindws.csproj.AssemblyReference.cache
+D:\AThomasMore\Windws\hogerLagerWindws\hogerLagerWindws\obj\Debug\netcoreapp3.1\hogerLagerWindws.AssemblyInfoInputs.cache
+D:\AThomasMore\Windws\hogerLagerWindws\hogerLagerWindws\obj\Debug\netcoreapp3.1\hogerLagerWindws.AssemblyInfo.cs
+D:\AThomasMore\Windws\hogerLagerWindws\hogerLagerWindws\obj\Debug\netcoreapp3.1\hogerLagerWindws.csproj.CoreCompileInputs.cache
+D:\AThomasMore\Windws\hogerLagerWindws\hogerLagerWindws\obj\Debug\netcoreapp3.1\hogerLagerWindws.dll
+D:\AThomasMore\Windws\hogerLagerWindws\hogerLagerWindws\obj\Debug\netcoreapp3.1\hogerLagerWindws.pdb
+D:\AThomasMore\Windws\hogerLagerWindws\hogerLagerWindws\obj\Debug\netcoreapp3.1\hogerLagerWindws.genruntimeconfig.cache
